@@ -1,5 +1,5 @@
 # SideKicks Ecommerce App
-
+  
 
 SideKicks E-commerce App is a Flutter project that showcases a collection of sneakers, limited edition clothes, and accessories. The app utilizes the BLoC (Business Logic Component) architecture and features various screens to provide a seamless shopping experience.
 
