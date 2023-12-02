@@ -35,3 +35,4 @@ The splash screen provides an attractive introduction to the app.
 
 https://github.com/aayush0828/SideKicks-Ecommerce/assets/132382177/0ae7895b-41ac-4a53-ab3e-eb8f6285edda
 
+     
