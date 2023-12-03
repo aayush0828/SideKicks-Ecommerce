@@ -26,7 +26,7 @@ Proceed with the checkout process to complete the purchase.
 ### 7. Splash Screen
 The splash screen provides an attractive introduction to the app.
 
-## Features
+## Features. 
 
 - **Firebase Integration**: The app is connected with Firebase to handle user authentication and data storage.
 
