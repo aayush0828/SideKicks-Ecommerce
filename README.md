@@ -19,7 +19,7 @@ Users can add products to their wishlist for future reference.
 
 ### 5. Cart Screen
 The cart screen displays selected items for purchase, allowing users to manage their shopping cart.
-
+  
 ### 6. Checkout Screen
 Proceed with the checkout process to complete the purchase.
 
