@@ -10,7 +10,7 @@ The home screen displays featured products and allows users to explore the catal
 
 ### 2. Catalog Screen. 
 The catalog screen presents a collection of sneakers, limited edition clothes, and accessories with detailed information.
-
+    
 ### 3. Product Screen
 View detailed information about a specific product, including images, description, and pricing.
 
