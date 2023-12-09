@@ -14,7 +14,7 @@ The catalog screen presents a collection of sneakers, limited edition clothes, a
 ### 3. Product Screen
 View detailed information about a specific product, including images, description, and pricing.
 
-### 4. Wishlist Screen. 
+### 4. Wishlist Screen.   
 Users can add products to their wishlist for future reference.
 
 ### 5. Cart Screen
