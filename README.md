@@ -7,7 +7,7 @@ SideKicks E-commerce App is a Flutter project that showcases a collection of sne
      
 ### 1. Home Screen
 The home screen displays featured products and allows users to explore the catalog.
-
+  
 ### 2. Catalog Screen. 
 The catalog screen presents a collection of sneakers, limited edition clothes, and accessories with detailed information.
         
