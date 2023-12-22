@@ -5,7 +5,7 @@ import 'package:walmart/config/models/productmodel.dart';
 class HeroCarouselCard extends StatelessWidget {
   final Category? category;
   final Product? product;
-
+    
   const HeroCarouselCard({
     Key? key,
     this.category,
