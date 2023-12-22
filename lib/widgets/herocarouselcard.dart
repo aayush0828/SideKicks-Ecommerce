@@ -23,7 +23,7 @@ class HeroCarouselCard extends StatelessWidget {
             arguments: category,
           );
         } else {
-          // Handle the case when product is not null
+          // Handle the case when product is not null    
           // You might want to navigate to a different route here
         }
       },
