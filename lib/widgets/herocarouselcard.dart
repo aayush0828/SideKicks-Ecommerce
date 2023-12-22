@@ -10,7 +10,7 @@ class HeroCarouselCard extends StatelessWidget {
     Key? key,
     this.category,
     this.product,
-  }) : super(key: key);
+  }) : super(key: key);   
 
   @override
   Widget build(BuildContext context) {
