@@ -16,7 +16,7 @@ import 'package:walmart/screens/splash/splashscreen.dart';
 import 'screens/homescreen.dart';
       
 Future<void> main() async{
-
+   
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   runApp(
