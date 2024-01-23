@@ -6,7 +6,7 @@ import 'package:walmart/blocs/cart/cart_bloc.dart';
 import 'package:walmart/blocs/category/bloc/category_bloc.dart';
 import 'package:walmart/blocs/checkout/checkout_bloc.dart';
 import 'package:walmart/blocs/product/bloc/product_bloc.dart';
-import 'package:walmart/config/approuter.dart';
+import 'package:walmart/config/approuter.dart';   
 import 'package:walmart/config/models/favorite_provider.dart';
 import 'package:walmart/config/theme.dart';
 import 'package:walmart/repo/category/categoryrepo.dart';
