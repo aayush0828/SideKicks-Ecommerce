@@ -9,7 +9,7 @@ import 'package:walmart/blocs/product/bloc/product_bloc.dart';
 import 'package:walmart/config/approuter.dart';   
 import 'package:walmart/config/models/favorite_provider.dart';
 import 'package:walmart/config/theme.dart';
-import 'package:walmart/repo/category/categoryrepo.dart';
+import 'package:walmart/repo/category/categoryrepo.dart'; 
 import 'package:walmart/repo/checkout/checkoutrepo.dart';
 import 'package:walmart/repo/product/productrepo.dart';     
 import 'package:walmart/screens/splash/splashscreen.dart';          
